@@ -1,0 +1,20 @@
+;Cena [PLN];Prędkość maksymalna [km/h];Przyspieszenie do 100 [s]
+Nissan NV200;50890;165;15
+Nissan Micra;61900;178;11.8
+Nissan Juke;76930;180;10.7
+Nissan Qashqai;98480;198;9.9
+Nissan X-Trail;115440;198;11.5
+Nissan Leaf;123900;157;7.3
+Nissan Navara;147000;184;10.8
+Nissan GT-R; 527000;315;2.9
+BMW Seria 1;106400;250;4.8
+BMW Seria 2;113700;250;4.6
+BMW X1;133900;235;6.5
+BMW X2;139100;250;5
+BMW Seria 4;172900;250;4.5
+BMW Seria 5;197900;305;3.4
+BMW Seria 6;260900;250;5.3
+Dacia Dokker;41550;173;12.5
+Dacia Duster;42900;200;10.4
+Dacia Lodgy;61800;185;10.9
+Dacia Sandero;32900;182;11.5
